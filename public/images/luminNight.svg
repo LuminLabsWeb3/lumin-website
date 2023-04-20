@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <rect width="1920" height="1080" id="artboard_1" />
+    <rect width="300" height="300" id="slice_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#slice_1" clip-rule="evenodd" />
+    </clipPath>
+    <clipPath id="clip_2">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="Slice-2" clip-path="url(#clip_1)">
+    <use xlink:href="#slice_1" stroke="none" fill="#000000" />
+    <g id="Full-HD" clip-path="url(#clip_2)" transform="translate(-620 -700)">
+      <use xlink:href="#artboard_1" stroke="none" fill="#FFFFFF" />
+      <path d="M-620 -700L340 -700L340 380L-620 380L-620 -700Z" id="Rectangle" fill="#000000" fill-rule="evenodd" stroke="none" />
+      <path d="M80 181L120 260.469L40 260.469L80 181Z" id="Triangle-2" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M150 40L85 170L130 260L240 260L260 220L110.025 220.05L200 40L150 40Z" id="New-shape-2" fill="#FFFFFF" fill-rule="evenodd" stroke="#000000" stroke-width="1" />
+    </g>
+  </g>
+</svg>

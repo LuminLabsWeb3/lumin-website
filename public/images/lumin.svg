@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="filter_1">
+      <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0" />
+    </filter>
+    <rect width="1920" height="1080" id="artboard_1" />
+    <rect width="300" height="300" id="slice_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#slice_1" clip-rule="evenodd" />
+    </clipPath>
+    <clipPath id="clip_2">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="Slice" clip-path="url(#clip_1)">
+    <use xlink:href="#slice_1" stroke="none" fill="#FFFFFF" />
+    <g id="Full-HD" clip-path="url(#clip_2)" transform="translate(-1010 -700)">
+      <use xlink:href="#artboard_1" stroke="none" fill="#FFFFFF" />
+      <g id="Group" transform="translate(1095 739.0001)" opacity="0.3" filter="url(#filter_1)">
+        <path d="M-945 -699L-1010 -569" id="Line-5" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="1" stroke-linecap="square" />
+        <path d="M-895 -699L-985 -519" id="Line-8" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="1" stroke-linecap="square" />
+        <path d="M-945 -699L-895 -699" id="Line-10" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="1" stroke-linecap="square" />
+        <path d="M-1010 -569L-985 -519" id="Line-7" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="1" stroke-linecap="square" />
+      </g>
+      <g id="Group-2" transform="translate(1120 919)" opacity="0.3" filter="url(#filter_1)">
+        <path d="M-860 -699L-880 -659" id="Line-11" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="1" stroke-linecap="square" />
+        <path d="M-1010 -699L-990 -659" id="Line-11" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="1" stroke-linecap="square" />
+        <path d="M-860 -699L-1010 -699" id="Line-9" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="1" stroke-linecap="square" />
+        <path d="M-880 -659L-990 -659.5" id="Line-6" fill="none" fill-rule="evenodd" stroke="#000000" stroke-width="1" stroke-linecap="square" />
+      </g>
+      <path d="M80 180.551L120 260.02L40 260.02L80 180.551Z" id="Triangle" fill="#000000" fill-rule="evenodd" stroke="none" />
+      <path d="M150 40L85 170L130 260L240 260L260 220L110.025 220.05L200 40L150 40Z" id="New-shape" fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="1" />
+    </g>
+  </g>
+</svg>

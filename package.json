@@ -10,6 +10,7 @@
     "deploy": "next build && next export && touch out/.nojekyll && gh-pages -d out"
   },
   "dependencies": {
+    "@nextui-org/react": "^1.0.0-beta.12",
     "autoprefixer": "10.4.14",
     "eslint": "8.38.0",
     "eslint-config-next": "13.3.0",
