@@ -31,7 +31,7 @@ export default function Home() {
       <div>
         <Image
           className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
-          src="https://luminlabsweb3.github.io/lumin-website/images/luminNight.svg"
+          src="https://luminlabsweb3.github.io/lumin-website/images/luminNight.png"
           alt="LuminLabs Logo"
           width={300}
           height={300}
